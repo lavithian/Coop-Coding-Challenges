@@ -8,6 +8,7 @@ These challenges would take a good chunk of time so delegating tasks is fairly i
 
 A familiar puzzle for your team to solve. 🫧
 Please complete this one first.
+Also, please try not to use ChatGPT for this one.
 
 Then please pick one of the two Challenges
 
