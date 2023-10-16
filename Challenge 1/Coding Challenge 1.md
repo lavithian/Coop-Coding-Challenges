@@ -1,7 +1,10 @@
-Fizz Buzz Enhanced
+# **Fizz Buzz Enhanced**
+
+It's your favourite programing challenge: Fizz Buzz, but harder.
 
 Write a program that displays all digits to n while adhering to the following rules:
 
+### **Display**
 A new line after every 10 digits.
 n must be displayed with 0 filling in the space.
 e.g.
@@ -9,33 +12,46 @@ e.g.
 ...
 091 092 093 094 095 096 097 098 099 100
 
+### **Fizz**
 Fizz starts at 3
 If n % fizz = 0, it should be replaced with 'fizz'.
 However, it should only display the letters to the length of max int.
 
-e.g. 11 fi 13 14
+**e.g.**
+
+11 fi 13 14
 
 If the length of the number is greater than 'fizz', then it repeat the letters
 
-e.g. 000001 000002 fizzfi 000004
+**e.g.** 
+
+000001 000002 fizzfi 000004
 
 after every 10 numbers, fizz += 1
+
+### **Buzz**
 
 Buzz is the next prime number of Fizz
 if n % buzz = 0, the number should be replaced with 'buzz'.
 However, it should only display the letters to the length of max int.
 
-e.g. 11 bu 13 14
+**e.g.** 
+
+11 bu 13 14
 
 If the length of the number is greater than 'buzz', then it repeat the letters
 
-e.g. 000001 000002 buzzbu 000004
+**e.g.**
+
+000001 000002 buzzbu 000004
 
 Whenever Fizz updates, Buzz should update too.
 
+**FizzBuzz**
+
 When a n % fizz = 0 AND n % buzz = 0, it should display the allocated space equally:
 
-e.g.
+**e.g.**
 
 13 14 fb 16
 
