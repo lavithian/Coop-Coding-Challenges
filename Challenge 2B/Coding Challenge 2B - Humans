@@ -7,8 +7,8 @@ I hope it is of help.
 Spearman
 Cost: 100G
 Special Ability:
-  Since Spearmen have sharp, long sticks they deal damage to all melee units, except for Trolls, before the opponent gets to retaliate.
-  i.e. When calculating damage, Spearman deals ATK, the opponent receives damage then recalculates their ATK before dealing their ATK.
+\tSince Spearmen have sharp, long sticks they deal damage to all melee units, except for Trolls, before the opponent gets to retaliate.
+\ti.e. When calculating damage, Spearman deals ATK, the opponent receives damage then recalculates their ATK before dealing their ATK.
 Comment:
 Remember to aim the pointy end to the enemy. No, you don't need to check if it's actually pointy.
 
