@@ -74,9 +74,9 @@ i.e Humans won't attack Goblins until all of the Trolls have been defeated
 
 Orc Units (except for Wyverns) will target Human Units in this order:
 1. Knights
-2. Spearmen
-3. Clerics
-4. Archers
+2. Clerics
+3. Archers
+4. Spearmen
 5. Pegasus Riders
 
 Wyverns have a different set of target priorities:
