@@ -19,12 +19,13 @@ When allocating HP and ATK, keep these in mind:
 - [ ] A single Knight can defeat a Warg.
 - [ ] A Warg can defeat 4 Archers, after using its Special Ability and ATK.
 - [ ] Pegasus Riders have less HP and ATK than a Knight but higher than the sum of Spearman and Archer HP.
-- [ ] It takes three arrows to defeat a Peagus Rider, but only one thrown axe to take it down.
+- [ ] It takes three arrows to defeat a Peagus Rider, but two thrown axes to take it down.
 - [ ] It should take two rounds for a Cleric to fully heal a Spearman.
 - [ ] A grounded Wyvern takes 1.5 more arrows than a Troll to take down.
 - [ ] A Knight should be able to defeat 4 Goblins before receiving damage.
-- [ ] All Ranged Attacks do half of their Melee Attacks, except for Archers. Archers only deal Ranged Attacks.
+- [ ] All Ranged Attacks do half of their Melee ATK, except for Archers. Archers only deal Ranged ATK.
 - [ ] Clerics can't attack. At all.
+- [ ] All Orc units except for Goblins can defeat a Cleric in a single round.
 - [ ] Trolls have enough health to withstand 100 arrows.
 - [ ] A Wyvern must come down often enough that a 100 spearman should be able to withstand its fireballs and defeat it.
 - [ ] A Troll can defeat 100 Spearmen.
