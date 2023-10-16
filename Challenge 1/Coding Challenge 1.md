@@ -61,7 +61,7 @@ When a n % fizz = 0 AND n % buzz = 0, it should display the allocated space equa
 ```
 **More Examples:**
 
-**_Note: These are with standard fizz = 3, buzz = 5_**
+**_Note: These are with standard FizzBuzz rules where fizz = 3, buzz = 5_**
 
 **1 to 100:**
 ```
