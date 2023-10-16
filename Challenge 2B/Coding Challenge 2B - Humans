@@ -1,0 +1,23 @@
+The Orcs are coming! 
+Your job is to create a battle calculator!
+
+On the human side, there are these types of units:
+Spearman
+Description: Since spearmen have sharp, long sticks, they attack all ground units except for trolls before being attacked.
+Comment: Remember to aim the pointy end to the enemy. No, you don't need to check if it's actually pointy.
+
+Archers
+Description: As long as there are equal or more Spearman than archers, archers will not receive any damage from melee attacks. They deal extra (X2) damage to airborn units.
+Comment: 
+
+Calvary
+Description: They will be the first to be targetted by all ground troops. Thankfully, their health makes it up for it. When the horse dies, Calvary turns into Spearman. Attacks twice when attacking goblins. Does double damage when attacking Goblins. The horse and the rider has same amount of health.
+Comment: 
+
+Peagus riders
+Description: They can fly anywhere thus can target anything. However, they are fairly frail and the rider doesn't survival the fall. An effective usage of this unit will turn the tide of any battle.
+Comment: Runs like a horse. Majestic like a horse. Flies like a pidgeon. Parachutes not included.
+
+Clerics
+Description: They can heal their allies. The healing is done after everyone has stabbed or shot at each other though. They can't be targetted by melee attacks as long as there are more Spearman after they are protecting archers. (i.e. if the number of Spearman - Archers > Clerics).
+Comment: They wear funny hats.

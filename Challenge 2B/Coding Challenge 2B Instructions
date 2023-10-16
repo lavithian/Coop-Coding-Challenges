@@ -1,0 +1,46 @@
+Instructions
+
+To the wizards of the 42 tower:
+
+Our Majesty has heard of your skills and has requested a battle calculator. You have been given the list of units that would appear in the field. However, it's your job to allocate them Health, Attack and Gold (Human side only. For tax purposes).
+When allocating Health and Attack, keep these in mind:
+
+A single Spearman should be able to handle 2 Goblins before being defeated by the third one.
+An archer has less health than a spearman.
+An Orc can defeat a Spearman.
+A calvary can defeat a Warg.
+A warg can defeat 4 archers after bonuses.
+Peagus riders have less health and attack than calvary but higher than the spearman and archer together.
+It takes two arrows to defeat a Peagus rider, but only one axe to take it down.
+It should take two rounds for a Cleric to fully heal a Spearman.
+A grounded wyvern takes 1.5 more arrows than a troll to take down.
+A calvary should be able to defeat two goblins in a single round before their bonus effect comes in.
+All ranged attack do half of their melee attacks, except for archers.
+Clerics can't attack.
+Trolls have enough health to withstand 100 arrows. Likewise for a grounded Wyvern.
+A wyvern must come down often enough that a 100 spearman should be able to withstand its fireballs and defeat it.
+However, a troll can defeat 100 Spearmans.
+50 Peguses can defeat down a wyvern.
+
+As for Gold:
+Spearman are the cheapest. (1.0x)
+Then archers (1.5x)
+Then Clerics (2.0x)
+Then Calvary (3.0x)
+Then Peaguses Riders (3.0x)
+
+Battles are simulated as follows:
+Eeach division has a health pool.
+i.e. if spearman has 10hp and there are 100 of them, the total health of speaman is 10000.
+After priorities, all units attack then receive damage.
+After receiveing damage, the unit count is recalculated.
+Thus if spearman with health pool of 1000HP receives 300 damage, there are now 70 spearmen left (700/10).
+Then clerics heal the healthpool. 
+Thus if the spearman Health pool was at 700 adn clerics heal 100, then there are now 80 spearmen left (800/10)
+A non-fully healed unit receives damage penalty by the amount of health it is missing. 
+i.e. if a spearman has 7/10 HP, it deals 30% less attack next turn.
+
+You can program what peagus riders will target each round.
+Orcs will target Calvary first, then spearman, clerics, archers and then peagus riders.
+Wyverns will target pegus riders, then archers, then calvary, then footmen, then clerics
+

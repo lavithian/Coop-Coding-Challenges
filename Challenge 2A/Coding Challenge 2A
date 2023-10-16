@@ -1,0 +1,19 @@
+A client wants a website for their pizza takeaway restaurant. Its hook is that all pizzas are custom made by the customer.
+
+The user should be able to select a sauce base.
+The user should be able to select toppings.
+The user should be able to select the amount of each toppings.
+The user should be able to see where on the pizza the toppings will be.
+There should be no overlaps with the ingredients unless the surface area of the pizza is insufficient to accomodate the topping.
+The user should be able to select how many slices a pizza should have (even numbers only).
+The user should be able to see where the slices will be made on the pizza.
+The toppings should be equally distributed on the pizza.
+The user should be able to know how much of the ingredients will be on per slice.
+
+BONUSES:
+The user should be able to customise where the cuts will be.
+The user should be able to define the size of the pizza.
+The user should be able to place their toppings on the pizza directly by dragging and dropping.
+Host it.
+
+If you managed to finish this with the bonuses as well, see Mcah for super-secret challenge!

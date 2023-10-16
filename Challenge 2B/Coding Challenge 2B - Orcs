@@ -1,0 +1,24 @@
+The Humans are coming!
+Your job is to create a battle calculator!
+
+On the Orcs side, there are these types of units:
+
+Goblin
+Description: They carry tiny daggers. Weak but cheap and can be somewhat effective in numbers.
+Comment: Ugly as a crushed pumpkin, has terrible breath but can play the violin beautifully. 
+
+Orcs
+Description: The standard affair orcs. Carries axes, muscluar and green. They carry two axes and can throw their spare axe if necessary before engaging in combat.
+Comment: 
+
+Wargs
+Description: They are large, vicious dogs with a rider on top. The rider can shoot crossbows from a distance before engaging in melee, then retreating back in range. In short, they attack twice every round. They complement Trolls who hogs all the attention very well. When attacking archers, they will attack twice again.
+Comment: Despite their evil nature, dogs are adorable once you get to know them.
+
+Trolls
+Description: Big burly creatures that carries a large club. Because of their size, they are targetted by all ground troops first. However, because of their enormous size, they can also attack before everyone else, including the spearman. They can also throw rocks to deal ranaged damage.
+Comment:
+
+Wyverns
+Description: The king of the skies. They can fly around and spit out fire, a ranged attack. They have to land every few turns to do their wyvern thing though, making them vulnerable to ground troops. Otherwise, they are peppered by arrows and poked by Peagusus Riders.
+Comment: Contrary to popular belief, wyverns don't make delicious supper. They keep burning down the kitchen.
