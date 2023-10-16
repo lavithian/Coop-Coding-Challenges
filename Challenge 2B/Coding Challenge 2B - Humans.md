@@ -47,6 +47,9 @@ _I hope it is of help._
 **Special Ability:**
 
 &nbsp;&nbsp;&nbsp;&nbsp;They can heal other units.
+&nbsp;&nbsp;&nbsp;&nbsp;They can't heal animals (i.e. Knights' horses and Pegasus) 
+&nbsp;&nbsp;&nbsp;&nbsp;As long as there are more or equal Spearmen after protecting Archers, they can't be targetted by Melee ATK. 
+&nbsp;&nbsp;&nbsp;&nbsp;(i.e. If (num of Spearmen - num of Archers) >= num of Clerics) 
 
 **Comment:**
 
