@@ -10,7 +10,7 @@ A familiar puzzle for your team to solve. 🫧
 Please complete this one first.
 Also, please try not to use ChatGPT for this one.
 
-Then please pick one of the two Challenges
+Then please pick one of the two following Challenges
 
 ## **Challenge 2A**
 
