@@ -1,4 +1,4 @@
-# **Hello and welcome to _Mentor Coding Challenges_!**
+# **Hello and welcome to _Co-operative Coding Challenges_!**
 
 There are 3 (three) challenges for you to complete. Please don't try to finish all of them.
 
