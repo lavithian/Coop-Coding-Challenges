@@ -87,13 +87,21 @@ Wyverns have a different set of target priorities:
 4. Spearmen
 5. Clerics
 
+#### **Battle Reports**
+
+
+
 #### **Tests**
 
 **Defeat the following compositions**:
 
 (_Try to spend as little gold as possible. We don't want to waste our taxes, do we?_)
 
-&nbsp;&nbsp;&nbsp;&nbsp;100 Goblins, 70 Orcs, 50 Wargs, 5 Trolls, 1 Wyvern
+&nbsp;&nbsp;&nbsp;&nbsp;300 Orcs
+
+&nbsp;&nbsp;&nbsp;&nbsp;100 Goblins, 500 Orcs
+
+&nbsp;&nbsp;&nbsp;&nbsp;500 Goblins, 300 Orcs, 50 Wargs, 5 Trolls, 1 Wyvern
 
 &nbsp;&nbsp;&nbsp;&nbsp;500 Goblins, 300 Orcs, 100 Wargs, 10 Trolls, 3 Wyverns
 
