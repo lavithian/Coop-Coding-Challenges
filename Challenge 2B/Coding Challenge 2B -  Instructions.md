@@ -60,6 +60,10 @@ Special Abilities take effect where relevant.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;i.e. If a Spearman has (for example) 7/10 HP, then it will only do 70% of its original ATK.
 
+5. Any leftover damage after unit is wiped out is transferred to the units to the next priority.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;i.e. If Orcs wipeout Knights with 100 ATK leftover, the 100 ATK goes to the next targettable priority (Spearmen).
+
 #### **Target Priority**
 
 Human Units (except for Pegasus Riders) will target Orc Units in this order:
@@ -89,9 +93,53 @@ Wyverns have a different set of target priorities:
 
 #### **Battle Reports**
 
+Your calculator should display turn by turn battle report. It should look something like this:
 
+```
+The Battle of 42
 
-#### **Tests**
+Human Army            Orcs Army
+Spearmen:       100   Goblins: 100
+Archers:        100   Orcs:    100
+Clerics:        100   Wargs:   100
+Knights:        100   Trolls:  100
+Pegasus Riders: 100   Wyverns: 100
+Total:          500   Total:   500
+----------------------------------
+              ROUND 1
+----------------------------------
+
+Ranged Attack
+Archers shoot and deal X damage to Y units.
+Wargs shoot and deal X damage to Y units.
+[etc]
+
+Damage Received
+Goblins suffered X damage. They lost Y units.
+Knights suffered X damage. They lost Y units. Z units turned into Spearmen.
+
+Melee Attack
+Goblins deal X damage to Y units.
+[etc]
+
+[...]
+
+End of Round Report:
+Human Army            Orcs Army
+Spearmen:       50   Goblins: 50
+Archers:        100  Orcs:    70
+Clerics:        100  Wargs:   90
+Knights:        70   Trolls:  100
+Pegasus Riders: 70   Wyverns: 100
+Total:          390  Total:   4100
+
+----------------------------------
+              ROUND 2
+----------------------------------
+
+[Rinse and Repeat]
+
+```
 
 **Defeat the following compositions**:
 
