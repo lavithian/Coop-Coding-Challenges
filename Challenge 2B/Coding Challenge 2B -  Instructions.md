@@ -8,14 +8,14 @@ Our Majesty has heard of your skills and has requested a battle calculator.
 
 You had been supplied with lists of units for Humans and Orcs.
 
-It's your job to allocate them appropriate HP and ATK values. Gold should have been allocated for you (tax purposes).
+It's your job to allocate them appropriate HP and ATK values. Gold should have been allocated for you (for tax purposes).
 
 When allocating HP and ATK, keep these in mind:
 
 - [ ] All HP and (Melee or Ranged) ATK values are whole numbers. No decimal numbers allowed.
 - [ ] A single Spearman should be able to handle 2 Goblins before being defeated by the third one.
 - [ ] An Archer has less health than a Spearman.
-- [ ] A single Orc can defeat a Spearman.
+- [ ] A single Orc can defeat a Spearman with a moderate amount of health left.
 - [ ] A single Knight can defeat a Warg.
 - [ ] A Warg can defeat 4 Archers, after using its Special Ability and ATK.
 - [ ] Pegasus Riders have less HP and ATK than a Knight but higher than the sum of Spearman and Archer HP.
@@ -149,15 +149,15 @@ Total:          390  Total:   4100
 
 &nbsp;&nbsp;&nbsp;&nbsp;100 Goblins, 500 Orcs
 
-&nbsp;&nbsp;&nbsp;&nbsp;500 Goblins, 300 Orcs, 50 Wargs, 5 Trolls, 1 Wyvern
+&nbsp;&nbsp;&nbsp;&nbsp;300 Goblins, 300 Orcs, 50 Wargs, 5 Trolls, 1 Wyvern
 
-&nbsp;&nbsp;&nbsp;&nbsp;500 Goblins, 300 Orcs, 100 Wargs, 10 Trolls, 3 Wyverns
+&nbsp;&nbsp;&nbsp;&nbsp;500 Goblins, 500 Orcs, 100 Wargs, 10 Trolls, 3 Wyverns
 
-&nbsp;&nbsp;&nbsp;&nbsp;1000 Goblins, 1000 Orcs, 100 Wargs, 50 Trolls, 10 Wyverns
+&nbsp;&nbsp;&nbsp;&nbsp;1000 Goblins, 1000 Orcs, 200 Wargs, 50 Trolls, 10 Wyverns
 
 &nbsp;&nbsp;&nbsp;&nbsp;1000 Trolls, 1000 Wyverns
 
-&nbsp;&nbsp;&nbsp;&nbsp;5000 Goblins, 5000 Orcs, 1000 Wargs, 100 Trolls, 20 Wyverns
+&nbsp;&nbsp;&nbsp;&nbsp;10000 Goblins, 5000 Orcs, 1000 Wargs, 100 Trolls, 20 Wyverns
 
 **What's the best composition with this amount of Gold?**
 
