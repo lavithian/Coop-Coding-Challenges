@@ -25,7 +25,7 @@ When allocating HP and ATK, keep these in mind:
 - [ ] A Knight should be able to defeat 4 Goblins before receiving damage.
 - [ ] All Ranged Attacks do half of their Melee ATK, except for Archers. Archers only deal Ranged ATK.
 - [ ] Clerics can't attack. At all.
-- [ ] All Orc units except for Goblins can defeat a Cleric in a single round.
+- [ ] All Orc units can defeat a Cleric in a single round. All Orc units but Goblins can defeat an Archer in a single round.
 - [ ] Trolls have enough health to withstand 100 arrows.
 - [ ] A Wyvern must come down often enough that a 100 spearman should be able to withstand its fireballs and defeat it.
 - [ ] A Troll can defeat 100 Spearmen.
