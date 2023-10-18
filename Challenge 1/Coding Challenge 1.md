@@ -17,7 +17,7 @@ n must be displayed with 0 filling in the space.
 ### **Fizz**
 Fizz starts at 3
 If n % fizz = 0, it should be replaced with 'fizz'.
-However, it should only display the letters to the length of max int.
+However, it should only display the letters to the length of digit length of n.
 
 &nbsp;&nbsp;&nbsp;&nbsp;**e.g.**
 ```
@@ -93,5 +93,5 @@ fizz 0982 0983 fizz buzz 0986 fizz 0988 0989 fibu
 00000011 fizzfizz 00000013 00000014 fizzbuzz 00000016 00000017 fizzfizz 00000019 buzzbuzz 
 [...]
 fizzfizz 09999982 09999983 fizzfizz buzzbuzz 09999986 fizzfizz 09999988 09999989 fizzbuzz 
-09999991 09999992 fizzfizz 09999994 buzzbuzz fizzfizz 09999997 09999998 fizzfizz buzbuzzz
+09999991 09999992 fizzfizz 09999994 buzzbuzz fizzfizz 09999997 09999998 fizzfizz buzzbuzz
 ```
