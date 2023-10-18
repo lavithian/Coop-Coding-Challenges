@@ -10,7 +10,7 @@ _I hope it is of help._
 
 **Special Ability:**
 
-&nbsp;&nbsp;&nbsp;&nbsp;None. ☹️
+&nbsp;&nbsp;&nbsp;&nbsp;Each goblins has 30% chance to dodge a ranged attack.
 
 **Comment:**
 
