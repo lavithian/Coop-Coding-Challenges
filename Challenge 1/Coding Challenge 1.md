@@ -15,7 +15,7 @@ n must be displayed with 0 filling in the space.
   091 092 093 094 095 096 097 098 099 100
 ```
 ### **Fizz**
-Fizz starts at 3
+Fizz starts at the first digit of pi
 If n % fizz = 0, it should be replaced with 'fizz'.
 However, it should only display the letters to the length of digit length of n.
 
@@ -29,7 +29,14 @@ If the length of the number is greater than 'fizz', then it repeat the letters.
 ```
   000001 000002 fizzfi 000004
 ```
-After every 10 numbers, fizz += 1
+After every 10 numbers, the next digit of pi is added on. If the resulting sum has double digits, its digits are summed again.
+
+```
+i.e.
+3 + 1 + 4 + 1 + 5 = 14
+1 + 4 = 5
+Fizz = 5
+```
 
 ### **Buzz**
 
