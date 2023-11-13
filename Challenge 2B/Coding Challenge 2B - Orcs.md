@@ -48,7 +48,7 @@ _I hope it is of help._
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;i.e. When calculating damage, Trolls deals ATK, the opponent receives damage then recalculates their ATK before dealing their ATK.
 
-&nbsp;&nbsp;&nbsp;&nbsp;Trolls also have thick skin, meaning they only receive half damage from Melee ATKs, rounded down.
+&nbsp;&nbsp;&nbsp;&nbsp;Trolls also have thick skin, meaning they only receive half damage from Melee ATKs, rounded down, and has regen.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;i.e. A 3 Melee ATK on a Troll, but the Troll will only receive 1 Damage 
 
